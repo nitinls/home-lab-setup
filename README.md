@@ -22,6 +22,7 @@ DevOps:
 - `database server-1 PostGres` - the DB Server  (port = ???)
 - `Tomcat` - the Application Server  (port = ???)
 - `Nexus` - Nexux (port = ???)
+- `ELK` - Log Analysis(port = ???)  
 - `Sonar` - Code Quality Server(port = ???) 
 
 Advance: 
