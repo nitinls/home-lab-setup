@@ -29,3 +29,6 @@ Advance:
 - `Hyperledger` - the Distributed HyperLedger / BlockChain  (port = ???)
 - `Kuberneties` - the Service Orch  (port = ???)
 - `OpenShift` - the Service Orc from RedHat  (port = ???)
+
+
+https://team-1614170289165.atlassian.net/wiki/spaces/HOMELAB/overview
