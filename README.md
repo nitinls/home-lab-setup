@@ -7,11 +7,13 @@ This project contains a number of modules, but here are the main ones you should
 
 HyperVisor , Network, Firewall, AD , DNS. NAS: 
 - `proxmox server` - the Virtulisation / Hyper (port = 8006)
+- `wireguard` - VPN Server
 - `ad server` - the Authentication Server (port = ???)
 - `VPN Router` - the WAN Loadbalancer 
 - `pfSense` - FireWall(port = ???)
 - `pi hoe` - DNS Server(port = ???)
 - `True NAS` - NAS Server(port = ???)
+
 
 DevOps: 
 - `github server` - the Source code repository (port = ??)
