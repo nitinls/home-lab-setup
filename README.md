@@ -2,8 +2,6 @@
 
 If you're already a student of Learn home lab setup, you can get started diving deeper into the below modules </br></br>
 
-</br>
-
 ## Projects/Modules https://xxx.xxx.xxx.137:8006/
 This project contains a number of modules, but here are the main ones you should focus on and setup: 
 
